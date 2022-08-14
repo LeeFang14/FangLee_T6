@@ -1,0 +1,18 @@
+@use "base/base";
+
+@use "components/social-media";
+@use "components/card";
+@use "components/botton";
+@use "components/dialogue";
+@use "components/gallery";
+@use "components/secondary-nav";
+
+@use "layout/header";
+@use "layout/main";
+@use "layout/footer";
+
+@use "vendors/accordion";
+@use "vendors/carousel";
+@use "vendors/form";
+@use "vendors/naver";
+@use "vendors/swiper";
